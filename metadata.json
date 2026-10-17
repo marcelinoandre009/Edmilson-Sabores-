@@ -1,0 +1,6 @@
+{
+  "name": "Edmilson Sabores - Hamburgaria & Fast Food na Caála",
+  "description": "Cardápio digital, pedidos online para entrega e retirada, e reservas de mesa na Edmilson Sabores, Caála, Huambo. O verdadeiro gosto das ruas com entrega rápida.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
